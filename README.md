@@ -1,3 +1,4 @@
+|[logo](https://github.com/mrkabatullah/mrkabatullah/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Mr Kabatullah</h1>
 <h3 align="center">A passionate Web Designer from India</h3>
 
